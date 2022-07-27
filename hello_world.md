@@ -59,6 +59,8 @@ To use level 2 header type ## at the start of the line:
 
 **git add .** - add all saved changes
 
+---
+
 **git commit** - fix your changes. *Option **-m** allow you to set a comment to your commit. Every commit must have a commentary. Option **-a** inserts "git add" to your command if file already was added to track.*
 
 *Example:* 
@@ -68,6 +70,8 @@ To use level 2 header type ## at the start of the line:
 ***git add hello_world.md***
 
 ***git commit -m "Added new line to hello_world.md"***
+
+---
 
 **git log** - shows last commits with full info
 
@@ -80,4 +84,3 @@ To use level 2 header type ## at the start of the line:
 **git diff** - shows difference between last commit and actual status
 
 **git diff "first_4_symbols_of_commit" "first_4_symbols_of_commit"** - shows difference between two selected commits (type without "")
-
