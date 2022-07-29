@@ -3,6 +3,12 @@
 *There is an instruction to use markdown language*
 
 ## Font Type
+Frame your words between * to use italics type: *Italics*
+
+Frame your words between ** to use bold type: **Bold**
+
+Frame your words between 
+~~ to use crossed out type: ~~Crossed out~~
 
 
 ## Lists
@@ -37,7 +43,7 @@ To use level 2 header type ## at the start of the line:
 ## Images
 
 If you want to add image to your markdown document type next:
-"**![text_if_image_unavailible](images/lomaem_git.jpg)**"
+**![text_if_image_unavailible](images/lomaem_git.jpg)**
 
 ---
 
