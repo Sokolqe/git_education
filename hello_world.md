@@ -3,12 +3,7 @@
 *There is an instruction to use markdown language*
 
 ## Font Type
-Frame your words between * to use italics type: *Italics*
 
-Frame your words between ** to use bold type: **Bold**
-
-Frame your words between 
-~~ to use crossed out type: ~~Crossed out~~
 
 ## Lists
 Use * at the start of the line to make unnumbered (bullet) list:
