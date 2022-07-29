@@ -85,8 +85,18 @@ To use level 2 header type ## at the start of the line:
 
 **git diff "first_4_symbols_of_commit" "first_4_symbols_of_commit"** - shows difference between two selected commits (type without "")
 
-## New insertion???
+## Branches
+**git branch** - show list of all branches
 
-some commands?? - description??
+**git branch branch_name** - make new branch
 
-KRYAKOZYABRA IN THE BUILDING!! MAYDAY, HOUSTON WE HAVE A PROBLEM!!!!1111!!!
+**git branch -d branch_name** - delete branch "branch_name"
+
+**git checkout branch_name** - switch to branch "branch_name"
+
+**git checkout -b branch name** - make new branch "branch_name" and then switch to it
+
+**git merge branch_name** - merging *branch_name* changes to *current* branch
+
+**git config --add merge.ff false** - disable fast-forward strategy for merge command
+
