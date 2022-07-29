@@ -8,6 +8,15 @@
 ## Lists
 
 
+Use tabulations (4 space) from previous line to make nested list:
+1. Element 1
+    * Subelement 1
+        - Subsubelement 1 
+2. Element 2
+    + Subelement 2
+        + Subsubelement 2        
+
+
 ## Headers
 To use level 1 header type # at the start of the line:
 # LVL1 Header
