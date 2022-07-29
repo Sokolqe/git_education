@@ -6,7 +6,15 @@
 
 
 ## Lists
+Use * at the start of the line to make unnumbered (bullet) list:
+* Element 1
+* Element 2
+* Element 3
 
+Use #. (1. for example) at the start of the line to make numbered list:
+1. Element 1
+2. Element 2
+3. Element 3
 
 Use tabulations (4 space) from previous line to make nested list:
 1. Element 1
@@ -14,7 +22,7 @@ Use tabulations (4 space) from previous line to make nested list:
         - Subsubelement 1 
 2. Element 2
     + Subelement 2
-        + Subsubelement 2        
+        + Subsubelement 2            
 
 
 ## Headers
