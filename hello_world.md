@@ -39,6 +39,11 @@ To use level 2 header type ## at the start of the line:
 
 *More "#" - lower lever of the header. Markdown supports 6 lvls of Headers*
 
+## Images
+
+If you want to add image to your markdown document type next:
+"**![text_if_image_unavailible](images/lomaem_git.jpg)**"
+
 ---
 
 # **Git. Typical commands**
