@@ -84,3 +84,9 @@ To use level 2 header type ## at the start of the line:
 **git diff** - shows difference between last commit and actual status
 
 **git diff "first_4_symbols_of_commit" "first_4_symbols_of_commit"** - shows difference between two selected commits (type without "")
+
+## New insertion???
+
+some commands?? - description??
+
+KRYAKOZYABRA IN THE BUILDING!! MAYDAY, HOUSTON WE HAVE A PROBLEM!!!!1111!!!
