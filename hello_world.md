@@ -106,3 +106,29 @@ If you want to add image to your markdown document type next:
 
 **git config --add merge.ff false** - disable fast-forward strategy for merge command
 
+## Push & Pull, working with GitHub
+**git remote** - manage set of tracked repositories
+
+**git remote -v** - view tracked repositories with url-adress
+
+**git remote add name url** - track new repository
+
+**git remote rm name** - delete repository from track
+
+**git remote rename old_name new_name** - rename tracked repository
+
+**git push remote_name branch_name** - push your commits to the remote repository to the branch_name
+
+**git pull** - pull out commits from the remote repository
+
+**git clone url-adress** - make clone of remote repository
+
+**git -set--upstream origin branch_name** - upstream branches are the branches on the remote repository that are tracked by a local remote branch in the local repository
+
+## How to Pull Request
+
+1. Make fork (copy) of remote repository to your GitHub
+2. Clone this repository to your local station
+3. Make new branch for your changes
+4. Push them to your github repository from the 1 paragraph
+5. Make Pull Request on the GitHub
